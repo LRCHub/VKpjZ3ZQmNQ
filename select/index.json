@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "おったまげったん",
+  "base_artist": "ROF-MAO",
+  "createdAt": "2025-12-28T05:03:53.060095Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おったまげったん",
+      "artist": "ROF-MAO",
+      "has_synced": false,
+      "path": "select/pl_01_おったまげったん_ROF-MAO.txt"
+    }
+  ]
+}
